@@ -20,6 +20,6 @@
   },
   "homepage": "https://github.com/bluerat1976/learning-sass-2#readme",
   "devDependencies": {
-    "node-sass": "^4.12.0"
+    "node-sass": "^4.13.1"
   }
 }
